@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(to right, cyan, blue);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    padding: 30px;
+    color: peachpuff;
+}
+
+h1{
+    color: black;
+}
+p{
+    color: black;
+}
+.caixa{
+    background-color: rgb(207, 10, 10);
+}
+button{
+    border-radius: 20px;
+    font-size: larger;
+}
+hr{
+    height: 4px;
+    border-radius: 20px;
+    background-color: black;
+}
+p{
+    font-size: 1.5rem;
+}
+
+span{
+    font-weight: bolder;
+    font-size: 1.6rem;
+}
+img{
+    border-radius: 30px;
+    border-color: burlywood;
+    background: rgb(0, 0, 0);
+    padding: 4px;
+    border: 4px;
+}
+iframe{
+    border-radius: 30px;
+    border: 4px;
+    border-color: burlywood;
+}
